@@ -1,0 +1,17 @@
+1. Introduction
+
+In the digital age, social media and online platforms have become major sources of news dissemination. However, the rapid spread of misinformation and fake news poses a serious threat to individuals and society. Detecting fake news at scale requires processing vast amounts of text data efficiently, which is where Big Data technologies such as Hadoop and Apache Spark play a crucial role.
+
+This project aims to build a Fake News Detection System that leverages the Hadoop ecosystem for distributed data storage and Apache Spark for large-scale data processing and machine learning-based classification.
+
+2. Objectives
+
+To collect and store large volumes of news articles from various sources using Hadoop Distributed File System (HDFS).
+
+To perform text preprocessing and feature extraction using Spark and NLP tools.
+
+To train a machine learning model (e.g., Logistic Regression, Random Forest, or Naive Bayes) for fake news classification.
+
+To analyze and visualize patterns of misinformation using Apache tools.
+
+To demonstrate scalability and efficiency of the big data pipeline.
